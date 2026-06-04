@@ -44,7 +44,8 @@ To simulate a network with topology using Cisco Packet Tracer and verify connect
 
 ## 🗺️ NETWORK DIAGRAM
 ---
-<img width="1024" height="326" alt="image" src="https://github.com/user-attachments/assets/b1678fb3-30c2-4351-9b61-ee7b524be458" />
+<img width="631" height="304" alt="image" src="https://github.com/user-attachments/assets/3a1381a1-1bc6-4b92-938c-df9ba9b091bb" />
+
 
 
 ## 🧾 BASIC NETWORKING COMMANDS
